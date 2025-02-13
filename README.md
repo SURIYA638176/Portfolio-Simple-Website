@@ -1,35 +1,22 @@
-# Portfolio-Simple-Website
-Here's a tailored GitHub README description for your **Portfolio Website** with only **Home** and **Contact** pages:  
+Here's a simple README for your **Portfolio Website**:  
 
 ---
 
-# 🌐 Personal Portfolio Website  
+# Personal Portfolio Website  
 
-This is a simple **Portfolio Website** built using **HTML and basic CSS**. It consists of two pages: **Home** and **Contact**.  
+A basic portfolio website with **Home** and **Contact** pages. Built using **HTML** and **CSS**.  
 
-## 📌 Pages  
-- **🏠 Home Page** – Introduces me and highlights my skills.  
-- **📞 Contact Page** – Provides ways to connect with me.  
+## Pages  
+- **Home** – Introduction and overview.  
+- **Contact** – Ways to reach me.  
 
-## 🛠️ Technologies Used  
-- **HTML** – For website structure  
-- **CSS** – For styling and layout  
+## Technologies Used  
+- HTML  
+- CSS  
 
-## 🎨 Features  
-✅ Clean and Minimalist Design  
-✅ Basic Navigation Between Pages  
-✅ Simple Contact Information  
-
-## 📸 Preview  
-![Portfolio Screenshot](your-image-url) *(Replace with your actual screenshot link)*  
-
-## 🔗 Live Demo  
-[View Website](your-live-demo-url) *(Replace with your actual website link)*  
-
-## 📩 Contact Me  
-📧 Email: your-email@example.com  
-💼 LinkedIn: [Your Profile](your-linkedin-url)  
+## Live Demo  
+[View Website](your-live-demo-url) *(Replace with your actual link)*  
 
 ---
 
-Let me know if you need changes! 🚀
+Let me know if you need any changes! 😊
