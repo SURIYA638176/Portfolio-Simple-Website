@@ -15,7 +15,7 @@ A basic portfolio website with **Home** and **Contact** pages. Built using **HTM
 - CSS  
 
 ## Live Demo  
-[View Website](README.md) *(Replace with your actual link)*  
+[View Website](https://suriya638176.github.io/Portfolio-Simple-Website/) *(Replace with your actual link)*  
 
 ---
 
